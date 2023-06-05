@@ -1,0 +1,6 @@
+dag_id,batch,sor,consumer,application,depends_on_ingestion,depends_on_curation,dag_type
+5,core holding,src5,con5,app5,dag1,dag3,curation
+3,manager,src3,con3,app3,,dag5,curation
+4,esc,src4,con4,app4,dag1,,ingestion
+2,region,src2,con2,app2,dag4,dag5,curation
+1,core holding,src1,con1,app1,,,ingestion
