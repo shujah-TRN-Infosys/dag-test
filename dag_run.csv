@@ -1,0 +1,6 @@
+dag_id,start_date,end_date,state
+dag1 ,11/5/2023,11/5/2023,success
+dag2,10/5/2023,10/5/2023,failed
+dag3,10/5/2023,10/5/2023,success
+dag4,9/5/2023,9/5/2023,failed
+dag5,9/5/2023,9/5/2023,success
